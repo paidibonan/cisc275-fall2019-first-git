@@ -5,7 +5,9 @@ public class Dog extends Animal {
     this.legs = l;
   }
 
-  public getLegs() {
-    return this.legs;
+
+  @Override
+  public String toString(){
+    return this.name + " has " + this.legs + " legs!";
   }
 }
