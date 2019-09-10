@@ -1,2 +1,10 @@
 paidibonan
 https://github.com/paidibonan/cisc275-fall2019-first-git.git
+
+2. The five objects are:
+  - the ArrayList
+  - the three dogs
+  - the comparator<Animal>
+
+3. The comparator constructor call is on line 16. The class definition for
+comparator is stored in java.util, its compare method was overridden in the following lines.
